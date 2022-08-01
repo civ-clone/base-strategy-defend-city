@@ -1,4 +1,3 @@
-# package-template
+# base-strategy-defend-city
 
-This is a template repo.
-
+Basic `Strategy`s for handling `City` defence.
